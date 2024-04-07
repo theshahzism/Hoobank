@@ -14,7 +14,7 @@ const CTA = () => {
         </p>
       </div>
       <div>
-        <Button className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-10 mt-0`}></Button>
+        <Button className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-10 mt-5`}></Button>
       </div>
     </section>
   );

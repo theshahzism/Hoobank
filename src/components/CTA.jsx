@@ -8,7 +8,7 @@ const CTA = () => {
     >
       <div className="flex flex-1 flex-col">
         <h2 className={styles.heading2}>Let's try our servises now!</h2>
-        <p className={`max-w-[470px] mt-5 ${styles.paragraph}`}>
+        <p className={`max-w-[470px] mt-5 mb-5 ${styles.paragraph}`}>
           Everything you need to accept card payments and grow your business
           anywhere on the Earth.
         </p>
